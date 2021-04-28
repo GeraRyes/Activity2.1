@@ -1,6 +1,6 @@
 [
+	[
 	{"name" : "Gera", "hobby" : "Box"},
-	{"name" : "Francisco", "hobby" : "Musica"},
-	{"name" : "Carlos", "hobby" : "Videojuegos"}
-
+	{"name" : "Carlos", "hobby" : "Musica"},
+	{"name" : "Francisco", "hobby" : "Videojuegos"}
 ]
