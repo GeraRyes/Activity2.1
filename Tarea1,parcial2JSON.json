@@ -1,8 +1,5 @@
 [
 	{"name" : "Rey", "hobby" : "Gym"},
 	{"name" : "Ari", "hobby" : "Chess"},
-	{"name" : "Héctor", "hobby" : "Anime"},
-	{"name" : "Nataly", "hobby" : "Dibujar"},
-	{"name" : "Agus", "hobby" : "Comer"},
 	{"name" : "Xavier", "hobby" : "Música"}
 ]
